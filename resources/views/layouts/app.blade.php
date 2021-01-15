@@ -7,5 +7,9 @@
 </head>
 <body>
     @include('shared.navbar')
+
+    @section('content')
+    
+    @show
 </body>
 </html>
